@@ -1,0 +1,19 @@
+.carousel img{
+  height: 600px;
+}
+.card img{
+  height: 320px;
+}
+
+textarea{
+  height:120px !important;
+  resize:none;
+}
+
+table img{
+  height: 100px;
+}
+
+p{
+  text-align: justify;
+}
